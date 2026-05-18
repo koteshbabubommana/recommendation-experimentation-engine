@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+psycopg2-binary
+redis
+kafka-python
+prometheus-client
+numpy
+pandas
+scikit-learn
+python-json-logger
+pytest
+httpx
+docker
